@@ -1,0 +1,15 @@
+clsStdGlobals = 0, 0, 0, 0, C
+clsStd = 0, 0, 0, 0, C
+mDBBackOffice = 0, 0, 0, 0, C
+SIMConstants = 70, 15, 982, 610, C
+MAXConstants = 0, 0, 0, 0, C
+clsMax = 200, 200, 1006, 635, C
+clsRLOAssessment = 169, 80, 975, 515, C
+MainRLOAssessment = 22, -19, 1400, 761, 
+modError = 0, 0, 0, 0, C
+clsInterpretBarcode = 0, 0, 0, 0, C
+modPDEMigrationCommon = 50, 50, 863, 511, C
+clsSOH = 178, 18, 929, 630, C
+frmMain = 25, -12, 1298, 670, , 66, 87, 760, 712, C
+modTranslation = 22, 29, 716, 654, C
+modAddedValidation = 58, -16, 936, 609, 
